@@ -1,0 +1,15 @@
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\bin\Debug\net6.0\RockPaperScissorsConsole.exe
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\bin\Debug\net6.0\RockPaperScissorsConsole.deps.json
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\bin\Debug\net6.0\RockPaperScissorsConsole.runtimeconfig.json
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\bin\Debug\net6.0\RockPaperScissorsConsole.dll
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\bin\Debug\net6.0\RockPaperScissorsConsole.pdb
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\obj\Debug\net6.0\RockPaperScissorsConsole.csproj.AssemblyReference.cache
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\obj\Debug\net6.0\RockPaperScissorsConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\obj\Debug\net6.0\RockPaperScissorsConsole.AssemblyInfoInputs.cache
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\obj\Debug\net6.0\RockPaperScissorsConsole.AssemblyInfo.cs
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\obj\Debug\net6.0\RockPaperScissorsConsole.csproj.CoreCompileInputs.cache
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\obj\Debug\net6.0\RockPaperScissorsConsole.dll
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\obj\Debug\net6.0\refint\RockPaperScissorsConsole.dll
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\obj\Debug\net6.0\RockPaperScissorsConsole.pdb
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\obj\Debug\net6.0\RockPaperScissorsConsole.genruntimeconfig.cache
+C:\Users\w31717\source\repos\RockPaperScissorsConsole\RockPaperScissorsConsole\obj\Debug\net6.0\ref\RockPaperScissorsConsole.dll
